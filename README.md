@@ -6,7 +6,7 @@
 
 ## Commands
 - **cd**
-    - for chaning directories
+    - for changing directories
 - **pwd**
     - for fetching path of present working directory
 - **exit**
