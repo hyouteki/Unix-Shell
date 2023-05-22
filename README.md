@@ -1,4 +1,4 @@
-**Custom UNIX shell completely written in C using prallelism by processes and threads**
+**Custom UNIX shell completely written in C using parallelism by processes and threads**
 
 ## Constraints
 - Max characters in a command is 100<br>
